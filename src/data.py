@@ -49,7 +49,7 @@ imgs = {
     "https://imgur.com/a/n9IBDnd": ["hypnotist"],
     "https://imgur.com/a/9O8vrrJ": ["puppet", "puppeteer"],
     "https://imgur.com/a/ahJiODX": ["destruction", "neutral destruction"],
-    "https://imgur.com/a/mwQZpxw": ["cereal", "serial", "serial killer"],
+    "https://imgur.com/a/mwQZpxw": ["sk", "cereal", "serial", "serial killer"],
     "https://imgur.com/a/rpXlq07": ["werewolf"],
 
     # KEYWORDS
