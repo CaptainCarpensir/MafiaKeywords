@@ -28,7 +28,7 @@ imgs = {
     "https://imgur.com/a/R4D4lsD": ["cloner"],
     "https://imgur.com/a/6hXffWz": ["ransomist", "ransom"],
     "https://imgur.com/a/2WHeNVB": ["neutral", "neutral roles"],
-    "https://imgur.com/a/jxPfinm": ["neutral independent", "independent", "ind", "ni"]
+    "https://imgur.com/a/jxPfinm": ["neutral independent", "independent", "ind", "ni"],
     "https://imgur.com/a/RYtjsYI": ["jester"],
     "https://imgur.com/a/NAQPUuO": ["chaos", "neutral chaos"],
     "https://imgur.com/a/n9IBDnd": ["hypnotist"],
