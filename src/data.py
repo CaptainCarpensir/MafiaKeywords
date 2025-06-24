@@ -34,7 +34,7 @@ imgs = {
     "https://imgur.com/a/yQQWDSZ": ["mercenary", "neutral mercenary"],
     "https://imgur.com/a/UlrJJBg": ["executioner", "nemesis", "lifelong grudge", "tie the noose", "vilify", "darius"],
     "https://imgur.com/a/bPmV7th": ["chaos", "neutral chaos", "jevil"],
-    "https://imgur.com/a/Y1P10r3": ["postmaster", "porch piracy", "mailroom key", "wrong address"],
+    "https://imgur.com/a/OCly2v1 \nhttps://imgur.com/a/YHhG02j": ["postmaster", "porch piracy", "mailroom key", "wrong address"],
 
 
     # KEYWORDS
