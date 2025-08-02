@@ -1,6 +1,6 @@
 imgs = {
     # AUDIT
-    "https://imgur.com/a/LtyoVV7 \nhttps://imgur.com/a/YncwTNB": ["audit"],
+    "https://imgur.com/a/u09x1kO \nhttps://imgur.com/a/YncwTNB": ["audit"],
     
     # TOWN ROLES
     "https://imgur.com/a/cQOvA8t": ["town", "town roles"],
@@ -9,7 +9,7 @@ imgs = {
     "https://imgur.com/a/5F4sxKK": ["duelist", "duel", "stance", "high noon", "fiora", "boothill"],
     "https://imgur.com/a/9OeKCc6": ["gunslinger", "hunt", "spray and pray"],
     "https://imgur.com/a/q28vbnG": ["sharpshooter", "snipe", "public execution"],
-    "https://imgur.com/a/qfnP75d": ["sheriff", "reputation", "arrest", "deescalation"],
+    "https://imgur.com/a/PykTFbx": ["sheriff", "reputation", "arrest", "deescalation"],
     # -- Town Discovery
     "https://imgur.com/a/IyL9fUE": ["discovery", "town discovery"],
     "https://imgur.com/a/PmpSke5": ["coroner", "autopsy report", "gather prints", "postmortem"],
@@ -39,7 +39,7 @@ imgs = {
     "https://imgur.com/a/InPAkXl": ["mafia", "mafia roles"],
     # -- Mafia Leader
     "https://imgur.com/a/sklMbo5": ["leader", "mafia leader"],
-    "https://imgur.com/a/ZobXKak": ["godfather", "gf", "iron fist", "the red hand", "massacre"],
+    "https://imgur.com/a/hoNDHlp": ["godfather", "gf", "iron fist", "the red hand", "massacre"],
     # -- Mafia Killing
     "https://imgur.com/a/Fgkd5Zx": ["killing", "mafia killing"],
     "# ***(This role isn't in this game!)***\n### The last time it was played, it was like this:\n https://imgur.com/a/yDlLvDD": ["assassin", "target", "assassinate", "ass", "lights out", "calling card"],
@@ -71,7 +71,7 @@ imgs = {
     # -- Neutral Destruction
     "https://imgur.com/a/jw9pMOE": ["neutral destruction", "destruction", "nd"],
     "https://imgur.com/a/QzoU5fO": ["ringleader", "circus", "the show goes on", "the final act", "caine"],
-    "https://imgur.com/a/VmUoWr9 \nhttps://imgur.com/a/ONnEfxC \nhttps://imgur.com/a/adElriz": ["serial killer", "sk", "psychotic tendencies", "murder", "killing frenzy"],
+    "https://imgur.com/a/VmUoWr9 \nhttps://imgur.com/a/ONnEfxC \nhttps://imgur.com/a/OxL7j4q": ["serial killer", "sk", "psychotic tendencies", "murder", "killing frenzy"],
     "# ***(This role isn't in this game!)***\n### The last time it was played, it was like this:\n https://imgur.com/a/Sa3ksQg": ["werewolf", "puppy", "dog", "full moon", "rend"],
 
 
@@ -98,7 +98,7 @@ imgs = {
     "https://imgur.com/a/ITR1Vl9": ["item"],
     "https://imgur.com/a/tnRa643": ["resource"],
     "https://imgur.com/a/4UIwT0H": ["action order", "substage", "priority", "instant", "polling", "focus", "utility", "defensive", "offensive", "discovery"],
-    "https://imgur.com/a/v4mFOit": ["modifiers", "ability modifiers", "astral", "repeatable", "unstoppable", "special"],
+    "https://imgur.com/a/v4mFOit": ["modifiers", "ability modifiers", "astral", "dormant", "repeatable", "unstoppable", "special"],
     "https://imgur.com/a/YncwTNB": [], # NOTE: audit is already a keyword...
     "https://imgur.com/a/8jbd15K": ["roleblock", "block"],
     "https://imgur.com/a/lhdYyik": ["erase"],
@@ -111,11 +111,11 @@ imgs = {
     "https://imgur.com/a/EzlHnBA": ["marks", "bonded", "death role", "elated", "ethereal", "fingerprinted", "nemesis", "on file", "possessed", "sighted", "targeted"],
     "https://imgur.com/a/o7P9990": ["offers", "adrenaline", "declare guilty", "duel", "invent", "magic powder"],
     "https://imgur.com/a/MZiY1qs": ["resources", "cash", "coins", "batteries", "extortions"],
-    "https://imgur.com/a/1h57WIh": ["rank0", "rank 0 items", "megaphone", "pinata", "foggy monocle", "metal detector", "candy pipe", "prop gun", "mail parcel", "blindfold", "clown shoes"],
-    "https://imgur.com/a/Acgq0pW \nhttps://imgur.com/a/jKu9obb": ["rank1", "rank 1 items", "everclear shot", "medkit", "poison vial", "whetstone", "romeo's gun", "binoculars", "energy drink", "post stamp", "herbal tea", "monocle", "toolbox", "scalpel", "wiretap", "voodoo doll", "adrenaline", "bleach", "pager", "fake id", "sleep monitor", "last will", "red flag"],
-    "https://imgur.com/a/sLD0sY1": ["rank2", "rank 2 items", "handgun", "magic powder", "security camera", "smoke grenade", "bear trap", "extra ballots", "fishing rod", "priority mail", "bath bomb", "pristine monocle", "inheritance", "swiss army knife", "barricade"],
+    "https://imgur.com/a/i60OUSB": ["rank0", "rank 0 items", "megaphone", "pinata", "foggy monocle", "metal detector", "candy pipe", "prop gun", "mail parcel", "blindfold", "clown shoes"],
+    "https://imgur.com/a/sTajfZ6 \nhttps://imgur.com/a/1tW1r1Q": ["rank1", "rank 1 items", "everclear shot", "medkit", "poison vial", "whetstone", "romeo's gun", "binoculars", "energy drink", "post stamp", "herbal tea", "monocle", "toolbox", "scalpel", "wiretap", "voodoo doll", "adrenaline", "bleach", "pager", "fake id", "sleep monitor", "last will", "red flag"],
+    "https://imgur.com/a/mth9NLc": ["rank2", "rank 2 items", "handgun", "magic powder", "security camera", "smoke grenade", "bear trap", "extra ballots", "fishing rod", "priority mail", "bath bomb", "pristine monocle", "inheritance", "swiss army knife", "barricade"],
     "https://imgur.com/a/bSDSJzP": ["rank3", "rank 3 items", "sniper rifle", "master cookbook", "skeleton key", "tracking device", "philosopher's stone", "heroin", "rabbit's foot", "genie lamp", "visibility cloak", "pocketwatch"],
-    "https://imgur.com/a/gRsCbwb": ["rank4", "rank 4 items", "second life", "steroids", "machine gun", "dominion", "pocket rat"],
+    "https://imgur.com/a/ygwSMI4": ["rank4", "rank 4 items", "second life", "steroids", "machine gun", "dominion", "pocket rat"],
 
     # FUN THINGS
     "https://imgur.com/a/Alcn8bl": ["bissy", "nyan", "toxic yaoi"],
