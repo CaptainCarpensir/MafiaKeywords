@@ -1,5 +1,6 @@
 import discord
 import os
+#import sys
 from dotenv import load_dotenv, find_dotenv
 from helper import getSearchKeywordHyperlink
 
@@ -15,8 +16,17 @@ class BotClient(discord.Client):
 
         if message.content.startswith('?tag '):
             searchKeyword = ' '.join(message.content.split(' ')[1:]).lower()
+            #print(searchKeyword)
+            #sys.stdout.flush()
+        elif message.content.startswith('?') and not message.content.startswith('??') and len(set(message.content)) > 1:
+            searchKeyword = (message.content[1:]).lower()
+            #print(searchKeyword)
+            #sys.stdout.flush()
+        else:
+            return
 
-            await message.channel.send(getSearchKeywordHyperlink(searchKeyword))    
+        await message.channel.send(getSearchKeywordHyperlink(searchKeyword))
+        return
 
 intents = discord.Intents.default()
 intents.message_content = True

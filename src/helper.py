@@ -12,8 +12,8 @@ def getSearchKeywordHyperlink(search: str) -> str:
             currKeyword = allKeywords[keywordIndex]
             currHighestSimilarity = sim    
 
-    if currHighestSimilarity < 67:
-        return "No match found"
+    if currHighestSimilarity < 60:
+        return "No match found."
 
     for pair in imgs.items():
         if currKeyword in pair[1]:
