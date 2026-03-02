@@ -1,0 +1,573 @@
+[
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-audit.png",
+    "keywords": ["audit", "roles"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-town.png",
+    "keywords": ["town", "town roles"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-all.png",
+    "keywords": ["tj", "tk", "justice", "town justice", "apollo"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-duelist.png",
+    "keywords": ["duelist", "duel", "parry"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-jailor.png",
+    "notes": [{"url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG15/test.png"}],
+    "keywords": ["jailor", "detain", "interrogate", "mutiny", "permanent stay"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-vigilante.png",
+    "keywords": ["vigilante", "vigil", "sharpshooter", "stake out", "rogue", "rogue justice", "public execution"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-sheriff.png",
+    "keywords": ["sheriff", "reputation", "arrest", "deescalation"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-evangelist.png",
+    "keywords": ["evangelist", "repentance", "gospel", "word of god"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tj-judge.png",
+    "keywords": ["judge", "overrule", "judgement call", "midnight trial"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/td-all.png",
+    "keywords": ["td", "discovery", "town discovery"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/td-detective.png",
+    "keywords": ["detective", "process of elimination", "further investigation"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/td-gumshoe.png",
+    "keywords": ["gumshoe", "educated guess", "breakthrough"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/td-lookout.png",
+    "keywords": ["lookout", "watch", "track"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/td-statistician.png",
+    "keywords": ["statistician", "stat", "census", "socioeconomic study", "study"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/td-librarian.png",
+    "keywords": ["librarian", "database search", "archival query"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tp-all.png",
+    "keywords": ["tp", "protection", "town protection"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tp-celebrity.png",
+    "keywords": ["celebrity", "idol sensation", "adore", "world tour"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tp-doctor.png",
+    "keywords": ["doctor", "heal", "self-heal"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tp-soothsayer.png",
+    "keywords": ["soothsayer", "echo", "precognition", "time dilation", "prevoker"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tp-surgeon.png",
+    "keywords": ["surgeon", "lifeline", "urgent practices", "miracle cure"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tp-attorney.png",
+    "keywords": ["attorney", "advocacy", "absolve", "plea deal", "jackal", "phoenix wright"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG15/tp-bodyguard.png",
+    "keywords": ["bodyguard", "guard", "body armor", "suit up"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG15/tp-prophet.png",
+    "keywords": ["prophet", "veil", "forsake"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-all.png",
+    "keywords": ["ts", "support", "town support"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-cia.png",
+    "keywords": ["cia operative", "cia op", "cia", "crack dealer", "mkultra", "work the night", "live another day", "midnight climax"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-courier.png",
+    "keywords": ["courier", "calligraphist", "mail delivery", "final message", "mailman"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-fortune.png",
+    "notes": [{"label": "Planetary Signs", "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-fortune-signs.png"}],
+    "keywords": ["fortune", "fortune teller", "ft", "fortune telling"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-fortune-signs.png",
+    "keywords": ["signs", "planetary signs", "uranus", "neptune", "saturn", "jupiter", "mars", "moon", "earth", "venus", "mercury", "sun"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-towncrier.png",
+    "keywords": ["town crier", "tc", "crier", "hear ye", "hear hear", "hear", "holler", "secret meeting"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ts-medium.png",
+    "keywords": ["medium", "oracle", "seance", "last chance", "archivist", "ethereal"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-all.png",
+    "keywords": ["multipurpose", "town multipurpose"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-cyborg.png",
+    "keywords": ["cyborg", "system boot", "debug", "/overflow", "/terminate", "/search", "/query", "/freeze", "/msg", "/reboot", "jack of all trades", "jack", "joat", "balatro"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-director.png",
+    "keywords": ["director", "birdie", "hounder", "ladybug", "system reset"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-hoarder.png",
+    "keywords": ["hoarder", "rat's nest", "rummage", "actor", "hoard"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-inventor.png",
+    "keywords": ["inventor", "inventive mind", "collective genius", "blueprint", "brainstorm"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-angler.png",
+    "keywords": ["angler", "fisher", "reel"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-gravedigger.png",
+    "keywords": ["gravedigger", "gravedig", "souvenirs"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/tmp-monk.png",
+    "keywords": ["monk", "inner chakras", "disarm foe", "sense evil", "inner peace", "twin minds"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-mafia.png",
+    "keywords": ["mafia", "mafia roles"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ml-all.png",
+    "keywords": ["leader", "mafia leader", "ml"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ml-don.png",
+    "keywords": ["the don", "don", "the family", "traffick", "burn it all down"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ml-don-consig.png",
+    "keywords": ["consigliere", "consig", "consig buff", "promotions"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ml-gf.png",
+    "keywords": ["godfather", "gf", "iron fist", "the red hand", "massacre"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/mk-all.png",
+    "keywords": ["killing", "mafia killing", "mk"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/mk-assassin.png",
+    "keywords": ["assassin", "target", "assassinate", "ass", "lights out", "calling card"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/mk-bomber.png",
+    "keywords": ["bomber", "plant", "detonate", "big red button"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/mk-sniper.png",
+    "keywords": ["sniper", "aim", "fire", "snipe"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/mk-arsonist.png",
+    "keywords": ["arsonist", "douse", "pyromania"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/mk-ventriloquist.png",
+    "keywords": ["ventriloquist", "cut loose", "string up", "march", "vent"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://imgur.com/a/uKHIuB1",
+    "keywords": ["conductor", "hostage", "trolley problem", "tie up"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/md-all.png",
+    "keywords": ["disruption", "mafia disruption", "md"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/md-conartist.png",
+    "keywords": ["con artist", "con", "cartist", "identity fraud", "fraud", "scam", "the long con", "long con"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/md-doppelganger.png",
+    "keywords": ["cloner", "doppelganger", "doppel", "friendly face"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/md-spy.png",
+    "keywords": ["spy", "1984", "backdoor", "wiretap", "deep state", "bypass security", "Agent"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/md-ransomist.png",
+    "keywords": ["ransomist", "threaten", "coercion", "no way out", "out of luck"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://imgur.com/a/ADLYEI4",
+    "keywords": ["mortician", "alibi", "cremation"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-neutral.png",
+    "keywords": ["neutral", "neutral roles"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-all.png",
+    "keywords": ["independent", "neutral independent", "ni"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-apprentice.png",
+    "keywords": ["apprentice", "quick learner", "teacher", "student", "sidekick"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-gambler.png",
+    "notes": [{"label": "Gambits", "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-gambler-gambits.png"}],
+    "keywords": ["gambler", "low stakes", "high stakes", "call", "check", "raise"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-gambler-gambits.png",
+    "keywords": ["gambits", "bets"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-phisher.png",
+    "keywords": ["phisher", "red mist", "squidward", "log off", "cybersecurity", "cyberinsecurity", "brute force"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/ni-jester.png",
+    "keywords": ["jester", "the last laugh", "prank", "clown", "honk honk", "joker", "jimbo", "pomni"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nm-all.png",
+    "keywords": ["mercenary", "neutral mercenary", "nm"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nm-executioner.png",
+    "keywords": ["executioner", "nemesis", "lifelong grudge", "hate mail", "tie the noose", "vilify", "darius"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nm-gamehunter.png",
+    "keywords": ["game hunter", "prize hog", "follow the trail", "close scent", "boar", "game shot", "most dangerous game"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nc-all.png",
+    "keywords": ["chaos", "neutral chaos", "jevil", "nc"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nc-harlequin.png",
+    "keywords": ["harlequin", "masquerade", "feint", "trickery", "showstopper", "unleash hell", "quinnigan"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nc-poltergeist.png",
+    "keywords": ["poltergeist", "ratatouille", "possession", "ghostwrite"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nc-computervirus.png",
+    "keywords": ["computer virus", "virus", "keylogger"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nd-all.png",
+    "keywords": ["neutral destruction", "destruction", "nd"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nd-stalker.png",
+    "keywords": ["stalker", "ambush", "stalk", "fearmonger", "impending doom", "doom"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/nd-werewolf.png",
+    "keywords": ["werewolf", "puppy", "dog", "full moon", "rend", "awoo", "orchid"]
+  },
+  {
+    "url": "## *(This role isn't in this game!)* \nhttps://imgur.com/a/QzoU5fO",
+    "keywords": ["ringleader", "circus", "the show goes on", "the final act", "soloiini"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-items-r0.png",
+    "keywords": ["r0", "rank0", "rank 0 items", "pinata", "candy pipe", "prop gun", "letter in a bottle", "mask", "romeo's shield", "cyanide", "grounding", "candy gun", "haystack needle", "language barrier", "clown shoes"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-items-r1.png",
+    "keywords": ["r1", "rank1", "rank 1 items", "foggy monocle", "voodoo doll", "wind chimes", "medkit", "poison vial", "romeo's gun", "post stamp", "sixth sense", "gavel", "adrenaline", "bleach", "pager", "fake id", "haystack", "last resort", "business card"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-items-r2-1.png \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-items-r2-2.png",
+    "keywords": ["r2", "rank2", "rank 2 items", "everclear shot", "monocle", "megaphone", "scalpel", "last will", "toolbox", "whetstone", "hammer", "donation box", "daylight sensor", "destiny knot", "unloaded gun", "rapier", "shiv", "address book", "mailbox key", "dreamcatcher", "broken glasses", "chain mail", "security camera", "swiss army knife"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-items-r3.png",
+    "keywords": ["r3", "rank3", "rank 3 items", "handgun", "magic powder", "fishing rod", "priority mail", "pristine monocle", "bath bomb", "bird's eye view", "abacus", "tracking device"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-items-r4.png",
+    "keywords": ["r4", "rank4", "rank 4 items", "skeleton key", "philosopher's stone", "steroids", "prism", "footlong sub", "truth serum", "pandora's box", "dominion"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-statuses.png",
+    "keywords": ["statuses", "addiction", "addicted", "vilified", "vulnerable", "bombed", "detained", "dread", "guilty", "possessed", "poison"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-marks-1.png \nhttps://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-marks-2.png",
+    "keywords": ["marks", "alone", "bonded", "bugged", "calling card", "death role", "echoed", "fan", "friend", "nemesis", "on file", "reversion", "scared", "scouted", "suspect"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/misc-offers.png",
+    "keywords": ["offers", "a way out", "confidential info", "delivery", "gamble", "invent", "share sub"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-channel.png",
+    "keywords": ["channel"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-channels.png",
+    "keywords": ["channels", "#announcements", "#bulletin-board", "#daytime-talk", "#mafia-talk", "#evil-talk", "#graveyard-talk"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-actions.png",
+    "keywords": ["action"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-abilities.png",
+    "keywords": ["ability", "day ability", "night ability", "abilities"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-phases.png",
+    "keywords": ["phase", "phases"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-day.png",
+    "keywords": ["day"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-croak.png",
+    "keywords": ["croak", "croak vote", "lynch", "lynch vote", "axe", "axe vote"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-night.png",
+    "keywords": ["night"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-letters.png",
+    "keywords": ["letter"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-death.png",
+    "keywords": ["death", "corpse"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-event.png",
+    "keywords": ["event"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-alignment.png",
+    "keywords": ["alignment"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-classes-ta.png",
+    "keywords": ["town classes"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-classes-mafia.png",
+    "keywords": ["mafia classes"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-classes-neutral.png",
+    "keywords": ["neutral classes"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-win.png",
+    "keywords": ["win condition", "wc"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-wins.png",
+    "keywords": ["win conditions", "wins", "wcs"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-strength.png",
+    "keywords": ["strengths", "strength", "basic kill", "basic protect", "powerful kill", "powerful protect", "obliterate", "invincibility"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-attacks.png",
+    "keywords": ["attack", "kill"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-protects.png",
+    "keywords": ["protect", "save"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-statuses.png",
+    "keywords": ["status"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-marks.png",
+    "keywords": ["mark"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-offer.png",
+    "keywords": ["offer"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-items.png",
+    "keywords": ["item"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-discover.png",
+    "keywords": ["discover", "discoveries"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-alerts.png",
+    "keywords": ["alerts", "alert"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-announce.png",
+    "keywords": ["announcements", "announce"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-passive.png",
+    "keywords": ["passive"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-roleblock.png",
+    "keywords": ["roleblock", "stun"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-audit.png",
+    "keywords": []
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-types.png",
+    "keywords": ["action types", "types", "polling", "disruption", "focus", "utility", "comms", "communication", "defensive", "defense", "offensive", "offense", "discovery"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-modifiers.png",
+    "keywords": ["ability modifiers", "action modifiers", "modifiers", "special", "free", "unstoppable", "astral", "dormant", "instant", "repeatable"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-complexity.png",
+    "keywords": ["complexity", "low complexity", "mid complexity", "high complexity", "extreme complexity"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-rarity.png",
+    "keywords": ["rarity", "common", "rare", "unique"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-actionorder.png",
+    "keywords": ["action order", "order", "substage"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-resources.png",
+    "keywords": ["resource"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-erase.png",
+    "keywords": ["erase", "erasure", "incinerate"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-disguise.png",
+    "keywords": ["disguise", "appearance"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-district.png",
+    "keywords": ["district", "row", "adjacent", "column", "map"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-visits.png",
+    "keywords": ["visit"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-follower.png",
+    "keywords": ["follower", "pawn", "sidekick", "sub"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-retrieve.png",
+    "keywords": ["retrieve"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-new.png",
+    "keywords": ["new"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-fail.png",
+    "keywords": ["fail", "action fail", "ability fail"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-bot.png",
+    "keywords": ["bot", "mafia city bot"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-intermission.png",
+    "keywords": ["intermission"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-accel.png",
+    "keywords": ["accelerated phases", "accel", "speedup", "ap"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-tips.png",
+    "keywords": ["tips", "insider intel", "divine tip hotline"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/rd-witnessprotection.png",
+    "keywords": ["witness", "witness protection", "wp"]
+  },
+  {
+    "url": "https://docs.google.com/document/d/1JETQamgKdFZ5OFSWgoAqNC3GCKgNmlDpZyjO9ZIuYDg/edit?usp=sharing",
+    "keywords": ["item dictionary"]
+  },
+  {
+    "url": "https://docs.google.com/document/d/1pYRZNDHPJLFSFxp0ld3sNqQfqHKBhvFlE74cZSF6CyU/edit?usp=sharing",
+    "keywords": ["event dictionary"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG15/milkwoman.webp",
+    "keywords": ["nyan"]
+  },
+  {
+    "url": "https://imgur.com/a/pn6Oygi",
+    "keywords": ["mafiakeywords"]
+  },
+  {
+    "url": "https://imgur.com/a/tZeFlo9",
+    "keywords": ["????"]
+  },
+  {
+    "url": "The missile knows where it is at all times. It knows this because it knows where it isn't, by subtracting where it is, from where it isn't, or where it isn't, from where it is, whichever is greater, it obtains a difference, or deviation. The guidance sub-system uses deviations to generate corrective commands to drive the missile from a position where it is, to a position where it isn't, and arriving at a position where it wasn't, it now is. Consequently, the position where it is, is now the position that it wasn't, and it follows that the position where it was, is now the position that it isn't. In the event of the position that it is in is not the position that it wasn't, the system has required a variation. The variation being the difference between where the missile is, and where it wasn't. If variation is considered to be a significant factor, it too, may be corrected by the GEA. However, the missile must also know where it was. The missile guidance computance scenario works as follows: Because a variation has modified some of the information the missile has obtained, it is not sure just where it is, however it is sure where it isn't, within reason, and it knows where it was. It now subracts where it should be, from where it wasn't, or vice versa. By differentiating this from the algebraic sum og where it shouldn't be, and where it was. It is able to obtain a deviation, and a variation, which is called \"air\".",
+    "keywords": ["missile"]
+  },
+  {
+    "url": "woost...",
+    "keywords": ["fore", "4", "74"]
+  },
+  {
+    "url": "https://tenor.com/view/dark-souls-dark-souls2-no-more-heroes-travis-touchdown-hop-on-gif-27641677",
+    "keywords": ["hopondarksouls2", "hop on"]
+  },
+  {
+    "url": "WRONG BOT! AAAAAHHHHHHH!!! :cockroach: :beetle:",
+    "keywords": ["pest", "red pests"]
+  },
+  {
+    "url": "https://file.garden/aUWYWCzt92XQry3Y/MafiaG16/why.jpg",
+    "keywords": ["yaoi"]
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/garfield/images/5/5e/GarfieldNoBackground.png/revision/latest/scale-to-width/360?cb=20250828223330",
+    "keywords": ["garfield"]
+  }
+]
